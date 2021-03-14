@@ -1,7 +1,4 @@
-user:
-  env:
-    default
-  name:
-    neeraj
-  address:
-    blue ridge
+username:
+  env: default
+  name: neeraj
+  address: blue ridge

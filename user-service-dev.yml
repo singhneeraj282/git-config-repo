@@ -1,7 +1,4 @@
-user:
-  env:
-    dev
-  name:
-    neeraj DEV
-  address:
-    blue ridge Dev
+username:
+  env: dev
+  name: neeraj DEV
+  address: blue ridge Dev
